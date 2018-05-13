@@ -1,7 +1,8 @@
 package org.knowm.xchange.utils;
 
-import java.util.stream.Collector;
-import java.util.stream.Collectors;
+
+import java8.util.stream.Collector;
+import java8.util.stream.Collectors;
 
 public final class StreamUtils {
 

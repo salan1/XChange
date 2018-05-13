@@ -2,7 +2,7 @@ package org.knowm.xchange.binance.service;
 
 import java.io.IOException;
 import java.util.List;
-import java.util.stream.Collectors;
+import java8.util.stream.Collectors;
 import org.knowm.xchange.Exchange;
 import org.knowm.xchange.binance.BinanceAdapters;
 import org.knowm.xchange.binance.dto.marketdata.BinanceAggTrades;

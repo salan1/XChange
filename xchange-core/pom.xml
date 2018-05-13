@@ -41,5 +41,11 @@
 			<artifactId>commons-lang3</artifactId>
 			<scope>test</scope>
 		</dependency>
+
+		<dependency>
+			<groupId>net.sourceforge.streamsupport</groupId>
+			<artifactId>streamsupport</artifactId>
+			<version>1.6.2</version>
+		</dependency>
 	</dependencies>
 </project>
