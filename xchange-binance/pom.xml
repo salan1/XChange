@@ -31,20 +31,26 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.github.User</groupId>
-            <artifactId>Repo name</artifactId>
-            <version>Release tag</version>
+            <groupId>com.github.salan1</groupId>
+            <artifactId>xchange-core</artifactId>
+            <version>1ad9a1b53cd33281fe2de3775fbf28886cfa3cec</version>
         </dependency>
 
         <dependency>
-            <groupId>org.knowm.xchange</groupId>
-            <artifactId>xchange-core</artifactId>
-            <version>4.3.7-SNAPSHOT</version>
-        </dependency>
-        <dependency>
             <groupId>net.sourceforge.streamsupport</groupId>
-            <artifactId>streamsupport</artifactId>
+            <artifactId>streamsupport-flow</artifactId>
             <version>1.6.2</version>
         </dependency>
+
+        <dependency>
+            <groupId>net.sourceforge.streamsupport</groupId>
+            <artifactId>streamsupport-atomic</artifactId>
+            <version>1.6.2</version>
+        </dependency>
+
+
+
+
+
     </dependencies>
 </project>
